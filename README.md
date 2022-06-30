@@ -1,9 +1,13 @@
-# pactice
+# Pactice Repo
+## This is a practice repo to help learn the basics
+### Forcing a new line.
 Practice Repository to learn basic git usage.  
-New Line Pracrice 
+This has created a new line.
 
 ## Section 1
-Creating a sub heading..
+### Creating different headings
+Creating a sub heading...
+
 
 
 
