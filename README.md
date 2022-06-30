@@ -4,6 +4,9 @@
 Practice Repository to learn basic git usage.  
 This has created a new line.
 
+## Contents
+* [Section 1](#section-1)
+
 ## Section 1
 ### Creating different headings
 Creating a sub heading...
